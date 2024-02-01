@@ -1,9 +1,9 @@
 {
   "name": "react_easypin",
   "version": "1.0.1",
-  "description": "Easily create a pin input and configure style, as well as actions",
+  "description": "`react-pin-input` provides an easy way to add a PIN code input to your React app. It displays an array of number inputs as circles for entering a PIN.",
   "keywords": [
-    "Pin"
+    "Pin", "Component", "Dynamic Input", "React", "jsx"
   ],
   "author": "Shekhar Maharaj",
   "license": "MIT",
