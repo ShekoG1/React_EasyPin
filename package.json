@@ -1,6 +1,6 @@
 {
   "name": "react_easypin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily create a pin input and configure style, as well as actions",
   "keywords": [
     "Pin"
@@ -8,6 +8,6 @@
   "author": "Shekhar Maharaj",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17" 
+    "react": "^16.8.0 || ^17"
   }
 }
